@@ -31,7 +31,7 @@ I am using a public dataset from the BBC comprised of 1490 articles, each labele
 ## Documentation:
 
 #### 1. High Label Documentation: https://docs.google.com/document/d/1ZvbLcm97cTsW9HHbqtaQKT6Mdm6PxNbn/edit
-#### 2. Low Label Documentation: https://docs.google.com/document/d/1n0RJkNYiCL0B-QmsyrFOrA6blMN4L5ELcA2IBU7fGjU/edit?usp=sharing
+#### 2. Low Label Documentation: https://docs.google.com/document/d/1Oizv6qEAbievZLnODbzwS_3YyEAmJis6/edit
 #### 3. Architecture: https://docs.google.com/document/d/1QlN0c_42aEuHt3pdqmaKYR5gsiQbyJvYRwRLL3E3F3Y/edit?usp=sharing
 #### 4. Wireframe: https://docs.google.com/document/d/1bx3jvYHALnrLafYu9zvsOHpIUuvJNixxue7Ta968AXU/edit?usp=sharing
 #### 5. Detailed Project Report: https://docs.google.com/presentation/d/1RGH8av_n46_2G2Kv7Ta1wzvdRq097lw-/edit?usp=sharing&ouid=115788716137180396853&rtpof=true&sd=true
