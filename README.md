@@ -33,8 +33,7 @@ I am using a public dataset from the BBC comprised of 1490 articles, each labele
 #### 2. Low Level Documentation: https://docs.google.com/document/d/1Oizv6qEAbievZLnODbzwS_3YyEAmJis6/edit
 #### 3. Architecture: https://docs.google.com/document/d/1MsDAVkSPmVSYlWw-UoNVyFBiNOk-8dGe/edit
 #### 4. Wireframe: https://docs.google.com/document/d/19NGmnDLcK4sNoRmSr-OVk8SIl81Bc0Xa/edit
-#### 5. Detailed Project Report: https://docs.google.com/presentation/d/1RGH8av_n46_2G2Kv7Ta1wzvdRq097lw-/edit?usp=sharing&ouid=115788716137180396853&rtpof=true&sd=true
-
+#### 5. Detailed Project Report: https://docs.google.com/presentation/d/1XABNb8DaxeTD4gYmNQKBX5qlH_oha5Lc/edit
 ## Summery:
 
 [Watch the video](https://youtu.be/lPGTMgh5_j8)
