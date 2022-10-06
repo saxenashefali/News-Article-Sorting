@@ -36,4 +36,4 @@ I am using a public dataset from the BBC comprised of 1490 articles, each labele
 #### 5. Detailed Project Report: https://docs.google.com/presentation/d/1XABNb8DaxeTD4gYmNQKBX5qlH_oha5Lc/edit
 ## Summery:
 
-[Watch the video](https://youtu.be/lPGTMgh5_j8)
+[Watch the video](https://youtu.be/glZunlJl4Co)
